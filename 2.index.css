@@ -15,7 +15,7 @@ form {
   display: flex;
   flex-direction: column;
   text-align: center;
-  background-color: rgb(212, 188, 210);
+  background-color: rgb(227, 226, 227);
   padding: 45px;
   box-shadow: 0 0 20px;
   color: rgb(249, 239, 250);
@@ -23,7 +23,7 @@ form {
 form h2 {
   font-size: 35px;
   margin-bottom: 35px;
-  color: rgb(182, 113, 201);
+  color: rgb(0, 0, 0);
 }
 input {
   background-color: rgb(242, 234, 242);
@@ -35,6 +35,6 @@ input {
   font-size: medium;
 }
 .button {
-  background-color: rgb(203, 135, 215);
-  color: rgb(166, 118, 166);
+  background-color: rgb(160, 91, 172);
+  color: rgb(238, 225, 238);
 }
