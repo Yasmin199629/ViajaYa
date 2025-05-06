@@ -43,11 +43,10 @@ button:hover {
   max-width: 1000px;
   margin: auto;
   background-color: rgb(248, 208, 248);
-
 }
 
 header {
-  background-color: rgb(221, 142, 228);
+  background-color: rgb(209, 159, 214);
   letter-spacing: normal;
   color: rgb(39, 35, 25);
   font-family: Arial, Helvetica, sans-serif;
@@ -63,11 +62,10 @@ footer {
   background-color: rgb(221, 142, 228);
 }
 
-
-  .carousel-item {
-    height: 455px; /* Altura deseada para el carrusel */
-  }
-  .carousel-item img {
-    object-fit: cover; 
-    object-position: center; 
-  }
+.carousel-item {
+  height: 455px;
+}
+.carousel-item img {
+  object-fit: cover;
+  object-position: center;
+}
