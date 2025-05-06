@@ -9,13 +9,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: rgb(250, 237, 251);
+  background-color: rgb(213, 209, 166);
 }
 form {
   display: flex;
   flex-direction: column;
   text-align: center;
-  background-color: rgb(227, 226, 227);
+  background-color: rgb(216, 217, 183);
   padding: 45px;
   box-shadow: 0 0 20px;
   color: rgb(249, 239, 250);
@@ -31,10 +31,10 @@ input {
   margin-bottom: 20px;
   border: 0;
   border-radius: 25;
-  color: rgb(192, 143, 202);
+  color: rgb(202, 202, 184);
   font-size: medium;
 }
 .button {
-  background-color: rgb(160, 91, 172);
+  background-color: rgb(179, 173, 89);
   color: rgb(238, 225, 238);
 }
